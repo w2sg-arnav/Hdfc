@@ -1,3 +1,4 @@
+```mermaid
 flowchart TB
     subgraph DataSources["Data Sources & Ingestion"]
         direction TB
